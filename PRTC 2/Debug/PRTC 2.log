@@ -1,0 +1,6 @@
+﻿  PRTC 2.cpp
+C:\Users\Admin\Documents\GitHub\Practice_1Course\PRTC 2\PRTC 2.cpp(23,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Documents\GitHub\Practice_1Course\PRTC 2\PRTC 2.cpp(23,57): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\Documents\GitHub\Practice_1Course\PRTC 2\PRTC 2.cpp(28,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Documents\GitHub\Practice_1Course\PRTC 2\PRTC 2.cpp(29,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  PRTC 2.vcxproj -> C:\Users\Admin\Documents\GitHub\Practice_1Course\Debug\PRTC 2.exe

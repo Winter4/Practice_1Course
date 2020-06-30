@@ -1,0 +1,3 @@
+﻿  PRTC 5.cpp
+C:\Users\Admin\Documents\GitHub\Practice_1Course\PRTC 5\PRTC 5.cpp(332,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "Student *"
+  PRTC 5.vcxproj -> C:\Users\Admin\Documents\GitHub\Practice_1Course\Debug\PRTC 5.exe
